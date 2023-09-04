@@ -4,3 +4,6 @@ Breast cancer has always been one of the most dangerous diseases that threaten w
 Cancers generally are classified into two types, Benign (noncancerous cell) and Malignant (cancerous cell). The earlier the cancer is diagnosed, the better the patient’s chance of recovery. Being able to accurately predict breast cancer present in patients has always been an important issue for cancer researchers. Machine Learning (ML) and Data Mining (DM) have always been a point of interest in the scientific community in the hope that they can yield accurate results. We aimed in this study to predict the tumor at early stages using some classification algorithms. After the dataset was collected and the outliers and skewness in the data set were removed, different classification algorithms were applied, focusing on the effect of the feature selection step in the model-building phase. 
 
 After conducting multiple experiments, we got the best overall accuracy by Support Vector Machine (SVM) classifier based on feature selection using Recursive Feature Elimination (RFE) with Random Forest (RF) technique with an accuracy of 98.25%
+
+
+the full Research Paper can be found here : https://ieeexplore.ieee.org/document/9651867
