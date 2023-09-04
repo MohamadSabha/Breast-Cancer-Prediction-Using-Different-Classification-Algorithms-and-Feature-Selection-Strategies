@@ -1,0 +1,2 @@
+# Breast-Cancer-Prediction-Using-Different-Classification-Algorithms-and-Feature-Selection-Strategies
+This study aims to predict the tumor at early stages using some classification algorithms. After the dataset was collected and the outliers and skewness in the data set were removed, different classification algorithms were applied, focusing on the effect of the feature selection step in model building phase obtaining overall accuracy of 98.25%.
