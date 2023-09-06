@@ -2,7 +2,7 @@
 
 A More information can be found at the following video :
 
-[![Real-time Outlier Detection - isolation forest, Apache spark, Apache Kafka.](https://i.ytimg.com/vi/MlksK7Exxrg/maxresdefault.jpg)](https://www.youtube.com/watch?v=MlksK7Exxrg&feature=youtu.be&ab_channel=mhdSabha)
+[![Breast-Cancer-Prediction-Using-Different-Classification-Algorithms-and-Feature-Selection-Strategies](https://i.ytimg.com/vi/MlksK7Exxrg/maxresdefault.jpg)](https://www.youtube.com/watch?v=MlksK7Exxrg&feature=youtu.be&ab_channel=mhdSabha)
 
 
 
